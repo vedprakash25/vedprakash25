@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! 👋 I am Ved Prakash,
+A frontend developer who loves creating simple and effective solutions, backed up with over two years of experience.
 
-<!--
-**vedprakash25/vedprakash25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Programming Languages: Javascript, Go.
+- Technologies: React, Vue, Astro, Node.
+- Tools: Git, VS Code, Webpack, Chrome Developer Tools and more
 
-Here are some ideas to get you started:
+## Want to know more 
+- [Portfolio (Reactjs)](https://vedprakash.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect!
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/vedprakashv)
+- Email: [Email Address](mailto:vedvprakash25@gmail.com)
+
+Feel free to reach out if you want to collaborate on a project, have a question, or just want to say hi!
